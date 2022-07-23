@@ -1,0 +1,11 @@
+D:\C# Activitys\Week_3_Activity_5\Week_3_Activity_5\bin\Debug\Week_3_Activity_5.exe.config
+D:\C# Activitys\Week_3_Activity_5\Week_3_Activity_5\bin\Debug\Week_3_Activity_5.exe
+D:\C# Activitys\Week_3_Activity_5\Week_3_Activity_5\bin\Debug\Week_3_Activity_5.pdb
+D:\C# Activitys\Week_3_Activity_5\Week_3_Activity_5\obj\Debug\Week_3_Activity_5.csproj.AssemblyReference.cache
+D:\C# Activitys\Week_3_Activity_5\Week_3_Activity_5\obj\Debug\Week_3_Activity_5.csproj.SuggestedBindingRedirects.cache
+D:\C# Activitys\Week_3_Activity_5\Week_3_Activity_5\obj\Debug\Week_3_Activity_5.Form1.resources
+D:\C# Activitys\Week_3_Activity_5\Week_3_Activity_5\obj\Debug\Week_3_Activity_5.Properties.Resources.resources
+D:\C# Activitys\Week_3_Activity_5\Week_3_Activity_5\obj\Debug\Week_3_Activity_5.csproj.GenerateResource.cache
+D:\C# Activitys\Week_3_Activity_5\Week_3_Activity_5\obj\Debug\Week_3_Activity_5.csproj.CoreCompileInputs.cache
+D:\C# Activitys\Week_3_Activity_5\Week_3_Activity_5\obj\Debug\Week_3_Activity_5.exe
+D:\C# Activitys\Week_3_Activity_5\Week_3_Activity_5\obj\Debug\Week_3_Activity_5.pdb
